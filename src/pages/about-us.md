@@ -7,5 +7,7 @@ sections:
     title: lorem-ipsum
     testimonials: []
     type: testimonials_section
+  - section_id: lorem-ipsum
+    type: store_section
 template: advanced
 ---
